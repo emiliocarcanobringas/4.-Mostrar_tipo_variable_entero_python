@@ -1,1 +1,1 @@
-# 4.-Mostrar_tipo_variable_entero_python
+Este programa muestra el tipado dinámico.
